@@ -242,7 +242,7 @@ function VerifyContent() {
 
         <p>Powered by the Polygon Blockchain</p>
         <p className="mt-1">
-          Centre for Innovation and Entrepreneurship — PES University
+          PES Univerity - Centre for Innovation and Entrepreneurship
         </p>
         <p className="mt-1">
           Immutable Academic Credential Registry
