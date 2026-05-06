@@ -194,7 +194,7 @@ function VerifyContent() {
                 Blockchain Record
               </h4>
 
-              <p>Network: Polygon Amoy Testnet</p>
+              <p>Network: Polygon Blockchain Mainnet</p>
               <p>Block Number: <b>{result.blockNumber}</b></p>
               <p>Gas Used: <b>{result.gasUsed}</b></p>
 
@@ -204,7 +204,7 @@ function VerifyContent() {
             <div className="text-center">
 
               <a
-                href={`https://amoy.polygonscan.com/tx/${txHash}`}
+                href={`https://polygonscan.com/tx/${txHash}`}
                 target="_blank"
                 className="inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700"
               >
